@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/b.planet-react/static/css/main.8b42f7f4.css",
+    "main.js": "/b.planet-react/static/js/main.26f27629.js",
+    "static/media/profile.jpg": "/b.planet-react/static/media/profile.d6bc89ceacb029232e88.jpg",
+    "static/media/hero image 2.png": "/b.planet-react/static/media/hero image 2.5b7a2eba9b6707523318.png",
+    "static/media/Hero image 1.png": "/b.planet-react/static/media/Hero image 1.6b3b63436e6091445dfa.png",
+    "static/media/Login in page image.png": "/b.planet-react/static/media/Login in page image.840b16884f24f039b7ac.png",
+    "static/media/image 1.png": "/b.planet-react/static/media/image 1.a9030ff1feba8b4daff1.png",
+    "index.html": "/b.planet-react/index.html",
+    "main.8b42f7f4.css.map": "/b.planet-react/static/css/main.8b42f7f4.css.map",
+    "main.26f27629.js.map": "/b.planet-react/static/js/main.26f27629.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b42f7f4.css",
+    "static/js/main.26f27629.js"
+  ]
+}
