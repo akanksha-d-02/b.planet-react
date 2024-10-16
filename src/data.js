@@ -1,6 +1,6 @@
 export const products = [
-    { id: 1, name: 'Tree 1', image: '../../assets/image 1.png' },
-    { id: 2, name: 'Tree 2', image: '../../assets/image 2.png'},
+    { id: 1, name: 'Tree 1', image: '../assets/image 1.png' },
+    { id: 2, name: 'Tree 2', image: '../assets/image 2.png'},
     { id: 3, name: 'Tree 3', image: '../assets/image 3.png' },
     { id: 4, name: 'Tree 4', image: '../assets/image 4.png' },
     { id: 5, name: 'plant 1', image: '../assets/image 5.png' },
